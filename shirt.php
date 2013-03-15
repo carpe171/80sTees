@@ -15,7 +15,7 @@ $section = "shirts";
 $pageTitle = $product["name"];
 include("inc/header.php"); ?>
 
-		<div class="section page">
+		<div class="section shirt page">
 			<div class="wrapper">
 				<div class="breadcrumb"><a href="shirts.php">Shirts</a> &gt; <?php echo $product["name"]; ?></div>
 				<div class="shirt-picture">

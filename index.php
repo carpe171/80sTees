@@ -5,8 +5,8 @@ include('inc/header.php'); ?>
 
 		<div class="section banner">
 			<div class="wrapper">
-				<div id="80s_hype_container" style="opacity:0.7;position:relative;overflow:hidden;width:1400px;height:290px;">
-					<script type="text/javascript" charset="utf-8" src="80s.hyperesources/80s_hype_generated_script.js?74879"></script>
+				<div id="80steesonebigpic_hype_container" style="opacity:0.5;position:relative;overflow:hidden;width:1400px;height:290px;">
+					<script type="text/javascript" charset="utf-8" src="80sTees-one-big-pic.hyperesources/80steesonebigpic_hype_generated_script.js?97683"></script>
 				</div>
 				<div class="button">
 					<a href="shirts.php">
@@ -19,7 +19,7 @@ include('inc/header.php'); ?>
 
 		<div class="section shirts latest">
 			<div class="wrapper">
-				<h2>Sweet Tees From the 80s&rsquo;s Latest Shirts</h2>
+				<h2>Sweet Tees From the 80&rsquo;s Latest Shirts</h2>
 				<?php include("inc/products.php"); ?>
 				<ul class="products">
 

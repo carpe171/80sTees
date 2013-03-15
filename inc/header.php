@@ -18,7 +18,7 @@
 			<div class="wrapper">
 
 				<h1 class="branding-title"><a href="./">Sweet Tees From the</a></h1>
-				<img class="hero" src="img/80s.png" alt="The 1980s says:">
+				<a href="./"><img class="hero" src="img/80s.png" alt="The 1980s says:"></a>
 				<ul class="nav">
 					<li class="shirts <?php if ($section == "shirts") { echo "on"; } ?>"><a href="shirts.php">Shirts</a></li>
 					<li class="contact <?php if ($section == "contact") { echo "on"; } ?>"><a href="contact.php">Contact</a></li>
