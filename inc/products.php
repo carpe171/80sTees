@@ -16,59 +16,59 @@ function get_list_view_html($product_id, $product) {
 
 $products = array();
 $products[101] = array(
-	"name" => "80s Shirt, Red",
+	"name" => "80&rsquo;s Shirt, Red",
 	"img" => "img/shirts/shirt-101.jpg",
 	"price" => 18,
-	"paypal" => "9P7DLECFD4LKE",
+	"paypal" => "Z88HTBLX3JSVA",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[102] = array(
-	"name" => "80s, Black",
+	"name" => "80&rsquo;s, Black",
     "img" => "img/shirts/shirt-102.jpg",
     "price" => 20,
-    "paypal" => "SXKPTHN2EES3J",
+    "paypal" => "L23A4TG8JYQ6Q",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[103] = array(
-    "name" => "80s, Blue",
+    "name" => "80&rsquo;s, Blue",
     "img" => "img/shirts/shirt-103.jpg",    
     "price" => 20,
-    "paypal" => "7T8LK5WXT5Q9J",
+    "paypal" => "QMGWFDM9RNBZJ",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[104] = array(
-    "name" => "80s Shirt, Green",
+    "name" => "80&rsquo;s Shirt, Green",
     "img" => "img/shirts/shirt-104.jpg",    
     "price" => 18,
-    "paypal" => "YKVL5F87E8PCS",
+    "paypal" => "JNS5EJFGRFXJS",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[105] = array(
-    "name" => "80s Shirt, Yellow",
+    "name" => "80&rsquo;s Shirt, Yellow",
     "img" => "img/shirts/shirt-105.jpg",    
     "price" => 25,
-    "paypal" => "4CLP2SCVYM288",
+    "paypal" => "DFP5QVBACX4AQ",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[106] = array(
-    "name" => "80s Shirt, Gray",
+    "name" => "80&rsquo;s Shirt, Gray",
     "img" => "img/shirts/shirt-106.jpg",    
     "price" => 20,
-    "paypal" => "TNAZ2RGYYJ396",
+    "paypal" => "PTLJDDEZ6CANS",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[107] = array(
-    "name" => "80s Shirt, Teal",
+    "name" => "80&rsquo;s Shirt, Teal",
     "img" => "img/shirts/shirt-107.jpg",    
     "price" => 20,
-    "paypal" => "S5FMPJN6Y2C32",
+    "paypal" => "2TXZGRNDRT8T4",
     "sizes" => array("Small","Medium","Large","X-Large")
 );
 $products[108] = array(
-    "name" => "80s Shirt, Orange",
+    "name" => "80&rsquo;s Shirt, Orange",
     "img" => "img/shirts/shirt-108.jpg",    
     "price" => 25,
-    "paypal" => "JMFK7P7VEHS44",
+    "paypal" => "EPA2FJF7AMRX2",
     "sizes" => array("Large","X-Large")
 );
 

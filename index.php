@@ -10,8 +10,8 @@ include('inc/header.php'); ?>
 				</div>
 				<div class="button">
 					<a href="shirts.php">
-						<h2>Hey, I&rsquo;m The 80s</h2>
-						<p>Check Out My Sweet Tees</p>
+						<h2>Welcome to Sweet Tees From the 80&rsquo;s</h2>
+						<p>Click to browse our Sweet Tees From the 80&rsquo;s</p>
 					</a>
 				</div><!-- .button -->
 			</div><!-- .wrapper -->

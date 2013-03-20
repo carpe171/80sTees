@@ -5,7 +5,7 @@ include('inc/header.php'); ?>
 
 		<div class="section shirts page" id="shirts-page-full">
 			<div class="wrapper">
-				<h1>Sweet Tee&rsquo;s Full Catalog of Shirts</h1>
+				<h1>Sweet Tees From the 80&rsquo;s Full Catalog of Shirts</h1>
 				<ul class="products">
 					
 					<?php foreach($products as $product_id => $product) { 

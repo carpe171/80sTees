@@ -48,7 +48,7 @@ include("inc/header.php"); ?>
 						<input type="submit" value="Add to Cart" name="submit">
 					</form>
 
-					<p class="note-designer">* All shirts are designed by Sweet Tees From the 80s</p>
+					<p class="note-designer">* All shirts are designed by Sweet Tees From the 80&rsquo;s</p>
 				</div><!-- .shirt-details -->
 			</div><!-- .wrapper -->
 		</div><!-- .section page -->
