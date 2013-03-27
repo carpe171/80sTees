@@ -4,11 +4,7 @@
 		<title><?php echo $pageTitle; ?></title>
 		<link rel="stylesheet" href="css/custom.css" type="text/css">
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald:400,700" type="text/css">
-		<script type='text/javascript' src='js/custom.js'></script>
-	  <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js'></script>
-	  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 	</head>
 
 	<body>
